@@ -1,0 +1,11 @@
+Metric,Value
+InitialCapital,100000.0
+FinalPortfolioValue,99839.21564282791
+TotalPnL,-160.78435717208146
+TotalTrades,181.0
+WinningTrades,79.0
+LosingTrades,102.0
+WinRatePct,43.646408839779006
+ProfitFactor,0.7867446381148167
+SharpeRatio,-0.9726892511797803
+MaxDrawdownPct,-0.1759362118486986
